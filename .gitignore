@@ -1,5 +1,8 @@
-# Object file
-*.o
+#历史记录 
+History
+#预览文件
+__Previews
+#project logs
+Project Logs for SmartCar
 
-# Ada Library Information
-*.ali
+

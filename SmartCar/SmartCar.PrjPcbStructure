@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=main.SchDoc
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=电源.SchDoc|SymbolType=Normal|RawFileName=电源.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=USB.SchDoc|SymbolType=Normal|RawFileName=USB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=传感器.SchDoc|SymbolType=Normal|RawFileName=传感器.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=单片机.SchDoc|SymbolType=Normal|RawFileName=单片机.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=电机驱动.SchDoc|SymbolType=Normal|RawFileName=电机驱动.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
